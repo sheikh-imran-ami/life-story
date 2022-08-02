@@ -5,3 +5,4 @@ I have completed my BSc in 2018
 I am a passionate programmer
 I have prepared for doing web development tasks
 I will join at MFile 1st of December
+logo alignment is centered
