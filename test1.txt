@@ -6,3 +6,4 @@ I am a passionate programmer
 I have prepared for doing web development tasks
 I will join at MFile 1st of December
 logo alignment is centered
+this text is added from main branch.
